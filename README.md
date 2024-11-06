@@ -1,2 +1,2 @@
 # My Personal Website
-(AlexAridgides.com)[https://alexaridgides.com]
+[AlexAridgides.com](https://alexaridgides.com)
