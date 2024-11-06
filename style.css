@@ -1,0 +1,84 @@
+@font-face {
+    font-family: 'SixtyfourConvergence';
+    src: url('fonts/SixtyfourConvergence-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'AltMono-Light';
+    src: url('fonts/AltMono-Light.ttf.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    background-color:#010409;
+    color:#f0f6fc;
+    text-align: center;
+    font-family: 'Poppins', 'Sans serif', 'Roboto Slab', serif;
+    margin-right: 5vw;
+    margin-left: 5vw;
+    font-size: large;
+}
+
+.websiteHeader {
+    font-size: clamp(2px, 12vw, 40px);
+}
+
+.sixtyFont {
+    font-family: SixtyfourConvergence;
+    font-size: clamp(2px, 12vw, 48px);
+    margin-right: 5vw;
+    margin-left: 5vw;
+}
+
+h4 {
+    font-family: 'AltMono-Light';
+}
+
+p {
+    text-align: left;
+    max-width: 226mm;
+    margin: 0 auto;
+}
+
+img {
+    width: 30vw;
+    padding-right: 5vw;
+    padding-left: 5vw;
+    padding-top: 2vw;
+    padding-bottom: 8px;
+    max-width: 55mm;
+    min-width: 45mm;
+}
+
+footer {
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+
+@media (max-width: 524px) {
+    .websiteHeader {
+        font-size: 32px;
+    }
+}
+
+@media (max-width: 475px) {
+    .sixtyFont {
+        font-size: 10vw;
+    }
+}
+
+@media (max-width: 421px) {
+    .websiteHeader {
+        font-size: 7vw;
+    }
+}
