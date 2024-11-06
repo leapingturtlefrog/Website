@@ -1,1 +1,1 @@
-# [AlexAridgides.com](https://alexaridgides.com)
+# [Alexaridgides.com](https://alexaridgides.com)
