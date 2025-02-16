@@ -58,6 +58,7 @@ img {
     padding-bottom: 8px;
     max-width: 55mm;
     min-width: 45mm;
+    max-height: 16mm;
 }
 
 footer {
@@ -67,6 +68,12 @@ footer {
 
 .footerSmallerFont {
     font-size: small;
+}
+
+@media (min-width: 1022px) {
+    .email-logo {
+        padding-left: 2vw;
+    }
 }
 
 @media (max-width: 524px) {
