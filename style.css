@@ -76,6 +76,12 @@ footer {
     }
 }
 
+@media (max-width: 1021px) {
+    .email-logo {
+        max-height: 14mm;
+    }
+}
+
 @media (max-width: 524px) {
     .websiteHeader {
         font-size: 32px;
