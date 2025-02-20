@@ -24,9 +24,12 @@ body {
     color:#f0f6fc;
     text-align: center;
     font-family: 'Poppins', 'Sans serif', 'Roboto Slab', serif;
+    font-size: large;
+}
+
+.main-body {
     margin-right: 5vw;
     margin-left: 5vw;
-    font-size: large;
 }
 
 .websiteHeader {

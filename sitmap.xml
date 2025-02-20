@@ -2,7 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://alexaridgides.com</loc>
-        <lastmod>2024-11-06T02:34+1:00</lastmod>
+        <lastmod>2025-02-16T02:34+1:00</lastmod>
         <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://alexaridgides.com/meet</loc>
+        <lastmod>2025-02-16T02:34+1:00</lastmod>
+        <priority>0.7</priority>
     </url>
 </urlset>
