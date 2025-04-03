@@ -32,15 +32,12 @@ body {
     margin-left: 5vw;
 }
 
-.websiteHeader {
-    font-size: clamp(2px, 12vw, 40px);
-}
-
 .sixtyFont {
     font-family: SixtyfourConvergence;
     font-size: clamp(12px, 12vw, 48px);
-    margin-right: 5vw;
-    margin-left: 5vw;
+    margin-right: auto;
+    margin-left: auto;
+    display: inline-block;
 }
 
 h4 {
