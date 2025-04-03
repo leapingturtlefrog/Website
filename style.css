@@ -38,7 +38,7 @@ body {
 
 .sixtyFont {
     font-family: SixtyfourConvergence;
-    font-size: clamp(2px, 12vw, 48px);
+    font-size: clamp(12px, 12vw, 48px);
     margin-right: 5vw;
     margin-left: 5vw;
 }
@@ -82,23 +82,5 @@ footer {
 @media (max-width: 1021px) {
     .email-logo {
         max-height: 14mm;
-    }
-}
-
-@media (max-width: 524px) {
-    .websiteHeader {
-        font-size: 32px;
-    }
-}
-
-@media (max-width: 475px) {
-    .sixtyFont {
-        font-size: 10vw;
-    }
-}
-
-@media (max-width: 421px) {
-    .websiteHeader {
-        font-size: 7vw;
     }
 }
