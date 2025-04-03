@@ -37,7 +37,8 @@ body {
     font-size: clamp(4px, 8vw, 48px);
     margin-right: auto;
     margin-left: auto;
-    display: inline-block;
+    display: block;
+    max-width: max-content;
 }
 
 h4 {
