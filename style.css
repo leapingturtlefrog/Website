@@ -34,7 +34,7 @@ body {
 
 .sixtyFont {
     font-family: SixtyfourConvergence;
-    font-size: clamp(12px, 12vw, 48px);
+    font-size: clamp(4px, 8vw, 48px);
     margin-right: auto;
     margin-left: auto;
     display: inline-block;
