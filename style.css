@@ -20,8 +20,8 @@
 }
 
 body {
-    background-color:#010409;
-    color:#f0f6fc;
+    background-color: #010409;
+    color: #f0f6fc;
     text-align: center;
     font-family: 'Poppins', 'Sans serif', 'Roboto Slab', serif;
     font-size: large;
@@ -34,7 +34,7 @@ body {
 
 .sixtyFont {
     font-family: SixtyfourConvergence;
-    font-size: clamp(4px, 4vw, 48px);
+    font-size: clamp(4px, 5vw, 48px);
     margin-right: auto;
     margin-left: auto;
     display: block;
@@ -43,6 +43,23 @@ body {
 
 h4 {
     font-family: 'AltMono-Light';
+}
+
+.quick-links {
+    font-size: medium;
+    text-align: center;
+    color: #8b949e;
+}
+
+.quick-links a {
+    color: #58a6ff;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.quick-links a:hover {
+    color: #79c0ff;
+    text-decoration: underline;
 }
 
 p {
@@ -81,4 +98,15 @@ footer {
     .email-logo {
         max-height: 14mm;
     }
+}
+
+.linksRow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.perifocus-logo {
+    max-width: 65mm;
 }

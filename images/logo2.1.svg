@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20.373602mm"
+   height="3.0192914mm"
+   viewBox="0 0 20.373601 3.0192916"
+   version="1.1"
+   id="svg1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <rect
+       x="11.600971"
+       y="0.26516503"
+       width="68.227867"
+       height="15.763884"
+       id="rect1" />
+    <linearGradient
+       id="linearGradient9">
+      <stop
+         style="stop-color:#eb00ff;stop-opacity:0;"
+         offset="0"
+         id="stop9" />
+      <stop
+         style="stop-color:#eb00ff;stop-opacity:1;"
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7">
+      <stop
+         style="stop-color:#eb00ff;stop-opacity:0;"
+         offset="0"
+         id="stop7" />
+      <stop
+         style="stop-color:#eb00ff;stop-opacity:1;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3">
+      <stop
+         style="stop-color:#eb00ff;stop-opacity:0;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#eb00ff;stop-opacity:1;"
+         offset="1"
+         id="stop3" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient3"
+       id="linearGradient4"
+       x1="50"
+       y1="30"
+       x2="70"
+       y2="30"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.2,0,0,1,38.439,1.054866)" />
+    <linearGradient
+       xlink:href="#linearGradient7"
+       id="linearGradient6"
+       x1="50"
+       y1="38.355289"
+       x2="65.739738"
+       y2="38.355289"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.1270669,0,0,1,42.085655,-4.900424)" />
+    <linearGradient
+       xlink:href="#linearGradient9"
+       id="linearGradient8"
+       gradientUnits="userSpaceOnUse"
+       x1="49.998013"
+       y1="34.193562"
+       x2="68.001991"
+       y2="34.193562"
+       gradientTransform="matrix(0.16654705,0,0,1.3779462,40.11112,-15.093472)" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-50,-30.754866)">
+    <path
+       style="fill:#f88fe8;fill-opacity:1;stroke:url(#linearGradient4);stroke-width:0.6;stroke-dasharray:none"
+       d="m 48.439,31.054866 h 4"
+       id="path1" />
+    <path
+       style="fill:#f88fe8;fill-opacity:1;stroke:url(#linearGradient8);stroke-width:0.6;stroke-dasharray:none"
+       d="m 48.439,32.254866 h 3"
+       id="path2" />
+    <path
+       style="fill:#f88fe8;fill-opacity:1;stroke:url(#linearGradient6);stroke-width:0.6;stroke-dasharray:none"
+       d="m 48.439,33.454866 h 2"
+       id="path3" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#eb00ff;stroke-width:0.590291;stroke-dasharray:none;stroke-opacity:1"
+       id="path9"
+       d="m 33.459373,50.498392 a 0.00481747,0.22197084 0 0 1 -0.0034,0.199356 0.00481747,0.22197084 0 0 1 -0.0052,-0.07677 0.00481747,0.22197084 0 0 1 -2.68e-4,-0.252958 l 0.0041,0.117611 z"
+       transform="matrix(0,1,1,0,0,0)" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#eb00ff;stroke-width:0.590291;stroke-dasharray:none;stroke-opacity:1"
+       id="path9-5"
+       d="m 32.259654,51.498614 a 0.00481747,0.22197084 0 0 1 -0.0034,0.199356 0.00481747,0.22197084 0 0 1 -0.0052,-0.07677 0.00481747,0.22197084 0 0 1 -2.67e-4,-0.252958 l 0.0041,0.117611 z"
+       transform="matrix(0,1,1,0,0,0)" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#eb00ff;stroke-width:0.590291;stroke-dasharray:none;stroke-opacity:1"
+       id="path9-5-3"
+       d="m 31.059653,52.498614 a 0.00481747,0.22197084 0 0 1 -0.0034,0.199356 0.00481747,0.22197084 0 0 1 -0.0052,-0.07677 0.00481747,0.22197084 0 0 1 -2.68e-4,-0.252958 l 0.0041,0.117611 z"
+       transform="matrix(0,1,1,0,0,0)" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,49.636197,30.530399)"
+       id="text1"
+       style="font-size:14.6667px;line-height:1.1;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT, Normal';text-align:center;letter-spacing:-0.38px;white-space:pre;shape-inside:url(#rect1);shape-padding:0.125;display:inline;fill:#aa0000;stroke-width:1.00157"><tspan
+         x="13.406079"
+         y="12.127874"
+         id="tspan4"><tspan
+           style="font-weight:500;font-family:Poppins;-inkscape-font-specification:'Poppins, Medium';fill:#008080"
+           id="tspan3">Perifocus</tspan></tspan></text>
+  </g>
+</svg>
