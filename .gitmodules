@@ -1,0 +1,3 @@
+[submodule "calculator-os"]
+	path = calculator-os
+	url = https://github.com/leapingturtlefrog/Calculator-OS.git
